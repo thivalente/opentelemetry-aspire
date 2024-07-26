@@ -1,0 +1,6 @@
+@OpenTelemetryAspireApi_HostAddress = http://localhost:5267
+
+GET {{OpenTelemetryAspireApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
